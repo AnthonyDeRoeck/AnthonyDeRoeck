@@ -1,9 +1,8 @@
-![Hi there, I'm Anthony!]
+## ![Hi there, I'm Anthony!]
 
 ## 📚 About Me
 I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a passion for unlocking the potential of big data to shape smarter business strategies.
 
-![Analytics Image](https://via.placeholder.com/800x400)
 
 ## 🚀 My Expertise
 - **Big Data:** Delving deep into technologies for managing and interpreting large datasets.
@@ -13,8 +12,6 @@ I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a pas
 - **Mathematics:** Passionate about problem-solving and logical thinking.
 - **Finance & Strategy:** Analyzing market trends and crafting impactful strategies.
 
-![Skills Image](https://via.placeholder.com/800x400)
-
 ## Education
 ### IE SCHOOL OF HUMAN SCIENCES AND TECHNOLOGY MADRID
 - Masters in Business Analytics and Big Data | SEPT. 2023 – JULY 2024
@@ -23,8 +20,6 @@ I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a pas
 ### GEORGETOWN UNIVERSITY WASHINGTON D.C.
 - Summer school, Business Economics | JUNE 2023 – JULY 2023
 - Magna Cum Laude | Paper on the Willow Project's significance for American Businesses
-
-![Education Image](https://via.placeholder.com/800x400)
 
 ### UNIVERSITY OF ANTWERP ANTWERP
 - MSc, Applied Economic Sciences | SEPT. 2022 – JULY 2023
@@ -38,28 +33,20 @@ I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a pas
 - BSc, Applied Economic Sciences | SEPT. 2019 – JULY 2022
 - Thesis: The Optimal Capital Structure of private Belgian corporations
 
-![University Image](https://via.placeholder.com/800x400)
 
 ## Technical Skills
-- Python
-- SQL
-- Dataiku
-- Eviews
-- Stata
-- MS Office
-- JUMP
 
-![Skills Image 2](https://via.placeholder.com/800x400)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 ## 🎯 Goals
 My aim is to excel in business analytics, mastering tools, techniques in Big Data, Machine Learning, SQL, Python, and exploring the Consulting industry. I aspire to solve real-world business challenges and drive innovation.
 
-![Goals Image](https://via.placeholder.com/800x400)
 
 ## 🤝 Connect with Me
 Let's collaborate! Reach out on [LinkedIn](https://www.linkedin.com/in/anthonyderoeck) or email me at `deroecka.ua@gmail.com`.
-
-![Connect Image](https://via.placeholder.com/800x200)
 
 ---
 
