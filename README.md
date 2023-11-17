@@ -1,54 +1,70 @@
-# Hi there, I'm Anthony! 👋
+Absolutely, I'll refine the layout and add some more design elements to enhance the presentation. Here's an updated version:
+
+---
+
+![Hi there, I'm Anthony!](https://via.placeholder.com/800x300)
 
 ## 📚 About Me
-I am currently pursuing an MSc in Business Analytics and Big Data and a Applied Economic Sciences Alumni. My academic journey is focused on unlocking the full potential of big data to inform smarter business strategies.
+I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a passion for unlocking the potential of big data to shape smarter business strategies.
+
+![Analytics Image](https://via.placeholder.com/800x400)
 
 ## 🚀 My Expertise
-- *Big Data*: Diving deep into big data technologies to manage and interpret large datasets.
-- *Machine Learning*: Training in machine learning to develop models that can predict trends and behaviors.
-- *SQL*: Gaining proficiency in SQL for efficient data querying and database management.
-- *Python*: Enhancing my skills in Python, a key language for data analysis and machine learning.
-- *Mathematics*: I love math and excel in it due to my passion for problem-solving, logical thinking, and the universal applicability of its concepts.
-- *Finance & Strategy*: My fascination with finance and strategy lies in deciphering the intricate dance of numbers, analyzing market trends, and crafting innovative strategies that drive impactful decisions and propel businesses toward success.
+- **Big Data:** Delving deep into technologies for managing and interpreting large datasets.
+- **Machine Learning:** Training models to predict trends and behaviors.
+- **SQL:** Proficient in querying and managing data efficiently.
+- **Python:** Key language for data analysis and machine learning.
+- **Mathematics:** Passionate about problem-solving and logical thinking.
+- **Finance & Strategy:** Analyzing market trends and crafting impactful strategies.
+
+![Skills Image](https://via.placeholder.com/800x400)
 
 ## Education
-IE SCHOOL OF HUMAN SCIENCES AND TECHNOLOGY MADRID, 
-Masters in Business Analytics and Big Data SEPT. 2023 – JULY 2024 (EXPECTED)
-• IE Consulting Club | 7th Worldwide in 2023 QS Master in Business Analytics ranking.
+### IE SCHOOL OF HUMAN SCIENCES AND TECHNOLOGY MADRID
+- Masters in Business Analytics and Big Data | SEPT. 2023 – JULY 2024
+- IE Consulting Club | 7th Worldwide in 2023 QS Master in Business Analytics ranking.
 
-GEORGETOWN UNIVERSITY WASHINGTON D.C.,
-Summer school, Business Economics JUNE 2023 – JULY 2023
-• Magna Cum Laude | Paper on importance of the Willow Project on American Businesses
+### GEORGETOWN UNIVERSITY WASHINGTON D.C.
+- Summer school, Business Economics | JUNE 2023 – JULY 2023
+- Magna Cum Laude | Paper on the Willow Project's significance for American Businesses
 
-UNIVERSITY OF ANTWERP ANTWERP,
-Master of Science, Applied Economic Sciences SEPT. 2022 – JULY 2023
-• Cum Laude | Major: Finance |Minor: Strategy and Organization
-• Master’s Thesis on The impact of COVID-19 on the financial performance of non-profit organizations
-• Relevant coursework: Entrepreneurial Finance 16/20, Strategic Management 15/20, Organizational Theory and Design 16/20
+![Education Image](https://via.placeholder.com/800x400)
 
-MARQUETTE UNIVERSITY MILWAUKEE,
-Exchange semester, Finance and Accounting AUG. 2021 – DEC. 2021
+### UNIVERSITY OF ANTWERP ANTWERP
+- MSc, Applied Economic Sciences | SEPT. 2022 – JULY 2023
+- Cum Laude | Major: Finance | Minor: Strategy and Organization
+- Thesis: The impact of COVID-19 on non-profit organizations' financial performance
 
-UNIVERSITY OF ANTWERP ANTWERP, 
-Bachelor of Science, Applied Economic Sciences SEPT. 2019 – JULY 2022
-• Bachelor’s Thesis on The Optimal Capital structure of private Belgian corporations
-• Relevant coursework: Mathematics 17/20, Mathematical methods 16/20, Operations Management 17/20
+### MARQUETTE UNIVERSITY MILWAUKEE
+- Exchange semester, Finance and Accounting | AUG. 2021 – DEC. 2021
+
+### UNIVERSITY OF ANTWERP ANTWERP
+- BSc, Applied Economic Sciences | SEPT. 2019 – JULY 2022
+- Thesis: The Optimal Capital Structure of private Belgian corporations
+
+![University Image](https://via.placeholder.com/800x400)
 
 ## Technical Skills
 - Python
-- SQl
+- SQL
 - Dataiku
 - Eviews
 - Stata
 - MS Office
 - JUMP
-  
+
+![Skills Image 2](https://via.placeholder.com/800x400)
+
 ## 🎯 Goals
-My goal is to become an expert in the field of business analytics, mastering tools, techniques in Big Data, Machine Learning, SQL, Python and explore the Consulting industry. I am dedicated to applying these skills to solve real-world business challenges and drive innovation.
+My aim is to excel in business analytics, mastering tools, techniques in Big Data, Machine Learning, SQL, Python, and exploring the Consulting industry. I aspire to solve real-world business challenges and drive innovation.
+
+![Goals Image](https://via.placeholder.com/800x400)
 
 ## 🤝 Connect with Me
-I'm always open to collaborating on projects or discussing ideas. Feel free to reach out to me on (https://www.linkedin.com/in/anthonyderoeck)) or drop an email at `deroecka.ua@gmail.com`.
+Let's collaborate! Reach out on [LinkedIn](https://www.linkedin.com/in/anthonyderoeck) or email me at `deroecka.ua@gmail.com`.
+
+![Connect Image](https://via.placeholder.com/800x200)
 
 ---
 
-Excited to explore the vast possibilities of data analytics and contribute to the community with innovative solutions and insights!
+Excited about exploring data analytics and contributing innovative solutions to the community!
