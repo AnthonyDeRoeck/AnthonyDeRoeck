@@ -1,4 +1,4 @@
-## ![Hi there, I'm Anthony!]
+## Hi there, I'm Anthony
 
 ## 📚 About Me
 I'm Anthony, pursuing an MSc in Business Analytics and Big Data, driven by a passion for unlocking the potential of big data to shape smarter business strategies.
