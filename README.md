@@ -1,7 +1,7 @@
 # Hi there, I'm Anthony! 👋
 
 ## 📚 About Me
-I am currently pursuing an MSc in Business Analytics and Big Data. My academic journey is focused on unlocking the full potential of big data to inform smarter business strategies.
+I am currently pursuing an MSc in Business Analytics and Big Data and a Applied Economic Sciences Alumni. My academic journey is focused on unlocking the full potential of big data to inform smarter business strategies.
 
 ## 🚀 My Expertise
 - *Big Data*: Diving deep into big data technologies to manage and interpret large datasets.
